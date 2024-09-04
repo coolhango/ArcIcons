@@ -1,6 +1,6 @@
 # Change Arc Browser Icon
 
-![arc](https://gist.github.com/assets/7717888/fdfbbb6f-ba07-46b9-bdbf-6ef43009479b)
+![User Image](https://github.com/user-attachments/assets/04cac5b0-bfee-4404-8ac3-c40e5c958329)
 
 A collection of commands that change the Arc Browser icon on macOS.
 
