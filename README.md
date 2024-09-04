@@ -16,11 +16,13 @@ A collection of commands that change the Arc Browser icon on macOS.
 
 ## Steps
 1. Copy one of the above commands
-3. Open `Terminal` on macOS
-4. Paste and run the command
-5. Open Arc Settings (⌘,), then click the Icon tab
-6. Click the new icon's radio button (it will already be selected, but clicking it will trigger the actual icon change)
-8. The icon should be updated!
+2. Open `Terminal` on macOS
+3. Paste and run the command
+4. Open Arc Settings (⌘,), then click the Icon tab
+5. Click the new icon's radio button (it will already be selected, but clicking it will trigger the actual icon change)
+6. The icon should be updated!
 
 ## Custom Icons
-See (https://gist.github.com/gabe565/9654eea08a9f6c7c1f593049e5bed243?permalink_comment_id=5080589#gistcomment-5080589).
+1. Arc forces users with their predefined icons, making you unable to change and get custom icons for Arc.
+2. Arc stores their icons in a .car file: /Applications/Arc.app/Contents/Resources/ARCClients_BaseAssets.bundle/Contents/Resources/Assets.car
+3. With an app *https://github.com/NSAntoine/Samra*, editing the Assets.car catalog is made easy, and you can replace one of their icons with yours.
